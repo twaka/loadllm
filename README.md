@@ -2,7 +2,7 @@
 
 A load testing tool for LLM streaming APIs.
 
-![Image](https://github.com/user-attachments/assets/f5a58244-91c2-4a67-80e7-2dda2b8e4a99)
+![loadllm](https://github.com/user-attachments/assets/7defec48-c6d4-4219-b74b-4d873987c4be)
 
 ## Usage
 
